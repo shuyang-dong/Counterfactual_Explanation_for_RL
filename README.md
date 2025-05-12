@@ -410,12 +410,12 @@ data_postprocess/lunar_lander/across_rp/final_data
 
 ## 📌 Citation & Attribution
 
-This repository was originally developed by **Shuyang Dong** as part of the research project:
+This repository was originally developed as part of the research project:
 
 > **Counterfactual Explanations for Continuous Action Reinforcement Learning**  
 > Presented at the 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025
 
-If you use this code or build upon it (including via fork or mirror), **please cite the original work**:
+If you use this code or build upon it, **please cite the original work**:
 
 ```bibtex
 @inproceedings{dong2025counterfactual,
